@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Store Results</string>
+
+    <string name="title_data_fetch_error">Store Data Retrieval Error</string>
+    <string name="msg_data_fetch_error">There was an error retrieving the store data. Please make sure you have an internet connection.</string>
+    <string name="ok">OK</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ListPrimaryStoreInfo">
+        <item name="android:textSize">24dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="ListSecondaryStoreInfo">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">#444444</item>
+    </style>
+
+    <style name="DetailPrimaryStoreInfo">
+        <item name="android:textSize">36dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="DetailSecondaryStoreInfo">
+        <item name="android:textSize">24dp</item>
+        <item name="android:textColor">#444444</item>
+    </style>
+
+</resources>
